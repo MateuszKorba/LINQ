@@ -1,0 +1,16 @@
+G:\Semestr 4\APBD\cwiczenia\cw6\cwiczenia6_jd-MateuszKorba\LinqCwiczenia2\LinqTutorials\obj\Debug\net5.0\LinqTutorials.csprojAssemblyReference.cache
+G:\Semestr 4\APBD\cwiczenia\cw6\cwiczenia6_jd-MateuszKorba\LinqCwiczenia2\LinqTutorials\obj\Debug\net5.0\LinqTutorials.GeneratedMSBuildEditorConfig.editorconfig
+G:\Semestr 4\APBD\cwiczenia\cw6\cwiczenia6_jd-MateuszKorba\LinqCwiczenia2\LinqTutorials\obj\Debug\net5.0\LinqTutorials.AssemblyInfoInputs.cache
+G:\Semestr 4\APBD\cwiczenia\cw6\cwiczenia6_jd-MateuszKorba\LinqCwiczenia2\LinqTutorials\obj\Debug\net5.0\LinqTutorials.AssemblyInfo.cs
+G:\Semestr 4\APBD\cwiczenia\cw6\cwiczenia6_jd-MateuszKorba\LinqCwiczenia2\LinqTutorials\obj\Debug\net5.0\LinqTutorials.csproj.CoreCompileInputs.cache
+G:\Semestr 4\APBD\cwiczenia\cw6\cwiczenia6_jd-MateuszKorba\LinqCwiczenia2\LinqTutorials\bin\Debug\net5.0\LinqTutorials.exe
+G:\Semestr 4\APBD\cwiczenia\cw6\cwiczenia6_jd-MateuszKorba\LinqCwiczenia2\LinqTutorials\bin\Debug\net5.0\LinqTutorials.deps.json
+G:\Semestr 4\APBD\cwiczenia\cw6\cwiczenia6_jd-MateuszKorba\LinqCwiczenia2\LinqTutorials\bin\Debug\net5.0\LinqTutorials.runtimeconfig.json
+G:\Semestr 4\APBD\cwiczenia\cw6\cwiczenia6_jd-MateuszKorba\LinqCwiczenia2\LinqTutorials\bin\Debug\net5.0\LinqTutorials.runtimeconfig.dev.json
+G:\Semestr 4\APBD\cwiczenia\cw6\cwiczenia6_jd-MateuszKorba\LinqCwiczenia2\LinqTutorials\bin\Debug\net5.0\LinqTutorials.dll
+G:\Semestr 4\APBD\cwiczenia\cw6\cwiczenia6_jd-MateuszKorba\LinqCwiczenia2\LinqTutorials\bin\Debug\net5.0\ref\LinqTutorials.dll
+G:\Semestr 4\APBD\cwiczenia\cw6\cwiczenia6_jd-MateuszKorba\LinqCwiczenia2\LinqTutorials\bin\Debug\net5.0\LinqTutorials.pdb
+G:\Semestr 4\APBD\cwiczenia\cw6\cwiczenia6_jd-MateuszKorba\LinqCwiczenia2\LinqTutorials\obj\Debug\net5.0\LinqTutorials.dll
+G:\Semestr 4\APBD\cwiczenia\cw6\cwiczenia6_jd-MateuszKorba\LinqCwiczenia2\LinqTutorials\obj\Debug\net5.0\ref\LinqTutorials.dll
+G:\Semestr 4\APBD\cwiczenia\cw6\cwiczenia6_jd-MateuszKorba\LinqCwiczenia2\LinqTutorials\obj\Debug\net5.0\LinqTutorials.pdb
+G:\Semestr 4\APBD\cwiczenia\cw6\cwiczenia6_jd-MateuszKorba\LinqCwiczenia2\LinqTutorials\obj\Debug\net5.0\LinqTutorials.genruntimeconfig.cache
